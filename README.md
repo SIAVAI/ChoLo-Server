@@ -1,1 +1,3 @@
-## [ Private Repo Link (Server) ](https://classroom.github.com/a/wX7HqxvI)
+## ChoLo (The Tourist Spot)
+
+<h2>This server is deployed on Vercel</h2>
