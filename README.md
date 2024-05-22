@@ -5,5 +5,5 @@
 <ul>
 <li>https://cholo-server.vercel.app/</li>
 <li>https://cholo-server.vercel.app/allTouristSpots</li>
-
+<li>https://cholo-server.vercel.app/users</li>
 </ul>
