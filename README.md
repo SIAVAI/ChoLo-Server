@@ -1,5 +1,7 @@
 ## ChoLo (The Tourist Spot)
 
+<h2>Data is stored on MongoDB Atlas</h2>
+
 <h2>This server is deployed on Vercel</h2>
 <p>Api's Link</p>
 <ul>
